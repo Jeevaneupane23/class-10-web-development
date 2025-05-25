@@ -1,0 +1,118 @@
+ /* === Slide 3: Internal CSS === */
+    /* 
+    p {
+      color: green;
+    }
+    */
+
+    /* === Slide 4: Selectors === */
+    /*
+    h1 {
+      color: navy;
+    }
+
+    .info {
+      font-size: 18px;
+    }
+
+    #main-title {
+      font-weight: bold;
+      color: darkorange;
+    }
+    */
+
+    /* === Slide 5: Basic Text Styling === */
+    /*
+    .styled-text {
+      color: purple;
+      font-size: 20px;
+      font-family: Georgia;
+      text-align: center;
+    }
+    */
+
+    /* === Slide 6: Background Styling === */
+    /*
+    body {
+      background-color: #f0f8ff;
+      background-image: url('https://www.transparenttextures.com/patterns/skulls.png');
+      background-repeat: repeat;
+    }
+    */
+
+    /* === Slide 7: Margin & Padding === */
+    /*
+    .spaced-box {
+      margin: 30px;
+      padding: 20px;
+      background-color: lightblue;
+    }
+    */
+
+    /* === Slide 8: Borders === */
+    /*
+    .bordered {
+      border: 3px dashed black;
+      padding: 10px;
+    }
+    */
+
+    /* === Slide 9: Box-Shadow & Border-Radius === */
+    /*
+    .fancy-box {
+      width: 200px;
+      height: 100px;
+      background: pink;
+      border-radius: 15px;
+      box-shadow: 4px 4px 10px gray;
+      padding: 10px;
+    }
+    */
+
+    /* === Slide 10: Display Properties === */
+    /*
+    .inline-item {
+      display: inline;
+    }
+
+    .block-item {
+      display: block;
+    }
+
+    .inline-block-item {
+      display: inline-block;
+      padding: 10px;
+      border: 1px solid gray;
+    }
+
+    .hidden {
+      display: none;
+    }
+    */
+
+    /* === Slide 11: Button and Link Styling === */
+    /*
+    a.button {
+      background: #007bff;
+      color: white;
+      padding: 10px 15px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+
+    a.button:hover {
+      background: #0056b3;
+    }
+
+    button {
+      background-color: green;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+    }
+
+    button:hover {
+      background-color: darkgreen;
+    }
+    */
