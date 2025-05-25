@@ -1,0 +1,80 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background: linear-gradient(to right, #fdfbfb, #ebedee);
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container */
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  border-radius: 12px;
+}
+
+/* Profile Section */
+.profile {
+  text-align: center;
+  padding: 20px;
+}
+
+.profile img {
+  width: 200px;
+  height: 200px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.profile h1 {
+  margin-top: 15px;
+  color: #2c3e50;
+}
+
+.tagline {
+  font-style: italic;
+  color: #555;
+}
+
+/* About Section */
+.about {
+  padding: 20px;
+}
+
+.about h2 {
+  color: #34495e;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.about p {
+  line-height: 1.6;
+}
+
+.about ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.about li {
+  padding: 8px 0;
+  font-size: 1.1em;
+}
+
+/* Button */
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  background-color: #3498db;
+  color: white;
+  text-decoration: none;
+  padding: 12px 20px;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #2980b9;
+}
